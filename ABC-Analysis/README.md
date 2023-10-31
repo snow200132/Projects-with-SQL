@@ -34,18 +34,19 @@ The value of each of the units or Stock keeping units (SKU) is analyzed and segm
 ## Entity Relationship Diagram
 Two data tables are used: `products` and `order_details`.
 
-![Entity Relationship Diagram](https://github.com/ritusantra/SQL-Projects/assets/75059347/7835b3cd-1739-4ff1-accf-0eb1d8f5d225)
+![Entity Relationship Diagram](https://github.com/snow200132/Projects-with-SQL/blob/main/ABC-Analysis/assets/75059347/7835b3cd-1739-4ff1-accf-0eb1d8f5d225)
 
 ## Step by Step ABC Analysis
 [Step by Step ABC Analysis](https://medium.com/@ritusantra/abc-analysis-using-excel-sql-da3d158b0c18)
 
 ## SQL Query & Microsoft Excel Workbook
-* [SQL Query](https://github.com/ritusantra/SQL-Projects/blob/main/ABC_Analysis/ABC_2.sql)
-* [Microsoft Excel Workbook](https://github.com/ritusantra/SQL-Projects/blob/main/ABC_Analysis/ABC%20Analysis%20Final.xlsx)
+* [SQL Query](https://github.com/snow200132/Projects-with-SQL/blob/main/ABC-Analysis/ABC_2.sql)
+* [Microsoft Excel Workbook](https://github.com/snow200132/Projects-with-SQL/blob/main/ABC-Analysis/ABC%20Analysis%20Final.xlsx)
 
 ## Results
 * ABC Analysis using SQL
 
-![Result Image](https://github.com/ritusantra/SQL-Projects/assets/75059347/eafb543b-92ee-4c88-b25d-6db0a8d990ce)
+![Result Image](https://github.com/snow200132/Projects-with-SQL/blob/main/ABC-Analysis/assets/75059347/eafb543b-92ee-4c88-b25d-6db0a8d990ce)
+
 
 
